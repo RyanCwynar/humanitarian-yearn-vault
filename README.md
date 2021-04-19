@@ -16,3 +16,6 @@ To do this, I'll need to understand the interface of a Yearn vault and a Yearn s
 I'll have to figure out how to use one vault from another.
 
 I'll have to include logic which uses the interest (likely in DAI) to buy and burn UBI tokens from Uniswap's market.
+
+## Reference
+Yearn Vaults - https://github.com/yearn/yearn-vaults
